@@ -29,7 +29,7 @@
   "license": "MIT",
   "description": "A high-performance, modern, telemetry-free desktop music player with Material Design.",
   "devDependencies": {
-    "electron": "^41.7.1",
+    "electron": "^42.11.16",
     "electron-builder": "^26.15.3"
   },
   "dependencies": {
